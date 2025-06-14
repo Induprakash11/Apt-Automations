@@ -2287,7 +2287,6 @@ header.main-header .header-sticky.active{
 
 .our-faqs-image{
 	position: relative;
-	padding-right: 70px;
 }
 
 .our-faqs-img figure{
@@ -2296,10 +2295,11 @@ header.main-header .header-sticky.active{
 }
 
 .our-faqs-img img{
-	width: 100%;
-	aspect-ratio: 1 / 1.065;
-	object-fit: cover;
-	border-radius: 20px;
+	width: 400px;
+    aspect-ratio: 1 / 1.065;
+    object-fit: cover;
+    border-radius: 20px;
+    height: 550px;
 }
 
 .client-review-box{

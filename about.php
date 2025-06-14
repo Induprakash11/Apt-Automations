@@ -418,6 +418,48 @@
     </div>
     <!-- What We Do Section End -->
 
+        <!-- Our FAQs Section Start-->
+    <div class="our-faqs">
+        <div class="container">
+            <div class="row section-row align-items-center">
+                <div class="col-lg-6">
+                    <!-- Section Title Start -->
+                    <div class="section-title">
+                        <h3 class="wow fadeInUp">Certificate</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>ISO</span> Certification</h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Section Button Start -->
+                    <div class="section-btn wow fadeInUp" data-wow-delay="0.2s">
+                        <a href="#" class="btn-default">View</a>
+                    </div>
+                    <!-- Section Button End -->
+                </div>
+            </div>
+
+            <div class="row align-items-end" style="display:flex;justify-content: space-evenly;flex-wrap: nowrap;flex-direction: row;">
+                <div class="col-lg-6">
+                    <!-- Our FAQs Image Start -->
+                    <div class="our-faqs-image">
+                        <!-- Our FAQs Img Start -->
+                        <div class="our-faqs-img">
+                            <figure class="image-anime reveal">
+                                <a href="images/certificate.pdf" target="_blank">
+                                <img src="images/iso-certificate.jpg" alt=""></a>
+                            </figure>
+                        </div>
+                        <!-- Our FAQs Img End -->
+
+                    </div>
+                    <!-- Our FAQs Image End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Our FAQs Section End-->
 
     <!-- Footer Section Start -->
     <?php include 'inc/footer.php'; ?>

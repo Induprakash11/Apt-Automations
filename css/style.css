@@ -1440,7 +1440,7 @@ header.main-header .header-sticky.active{
 /************************************/
 
 .why-choose-us{
-	padding: 100px 0;
+	padding: 50px 0;
 }
 
 .why-choose-content{
@@ -2979,12 +2979,12 @@ footer.main-footer{
 
 .footer-menu ul li{
 	position: relative;
-    background: var(--accent-color);
+    background: var(--dark-color);
     display: inline-block;
     text-transform: capitalize;
     list-style: none;
     line-height: normal;
-    color: var(--dark-color);
+    color: var(--accent-color);
     margin-right: 30px;
     padding: 13px 15px;
     opacity: 80%;
@@ -3013,8 +3013,8 @@ footer.main-footer{
 }
 
 .footer-menu ul li:hover{
-	color: var(--accent-color);
-	background-color: var(--dark-color);
+	color: var(--dark-color);
+	background-color: var(--accent-color);
 }
 
 .footer-menu ul li a{

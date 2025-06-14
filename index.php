@@ -202,7 +202,7 @@
                         <!-- Why Choose Box List Start -->
                         <div class="row why-choose-box-list">
                             <!-- Why Choose Box Start -->
-                            <div class="col-lg-3 col-md-6 col-sm-12">
+                            <div class="col-lg-3 col-md-6 col-sm-12 mb-4 mb-4">
                                 <div class="why-choose-box wow fadeInUp" data-wow-delay="0.2s">
                                     <div class="icon-box">
                                         <img src="images/icon-why-choose-1.svg" alt="">
@@ -216,7 +216,7 @@
                             <!-- Why Choose Box End -->
 
                             <!-- Why Choose Box Start -->
-                            <div class="col-lg-3 col-md-6 col-sm-12">
+                            <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                                 <div class="why-choose-box wow fadeInUp" data-wow-delay="0.2s">
                                     <div class="icon-box">
                                         <img src="images/icon-why-choose-2.svg" alt="">
@@ -229,7 +229,7 @@
                             <!-- Why Choose Box End -->
 
                             <!-- Why Choose Box Start -->
-                            <div class="col-lg-3 col-md-6 col-sm-12">
+                            <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                                 <div class="why-choose-box wow fadeInUp" data-wow-delay="0.2s">
                                     <div class="icon-box">
                                         <img src="images/icon-why-choose-1.svg" alt="">
@@ -242,7 +242,7 @@
                             <!-- Why Choose Box End -->
 
                             <!-- Why Choose Box Start -->
-                            <div class="col-lg-3 col-md-6 col-sm-12">
+                            <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                                 <div class="why-choose-box wow fadeInUp" data-wow-delay="0.2s">
                                     <div class="icon-box">
                                         <img src="images/icon-why-choose-2.svg" alt="">
@@ -272,7 +272,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">APT Automations</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Our<span>Products</span></h2>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Our<span> Products</span></h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -446,7 +446,7 @@
     <!-- Footer Section End -->
 
     <!-- Whatsapp Button Start -->
-     <a href="https://wa.me/+919865922844" class="whatsapp_float" target="_blank"> <i class="fab fa-whatsapp whatsapp-icon"></i></a>
+     <a href="https://wa.me/9865922844" class="whatsapp_float" target="_blank"> <i class="fab fa-whatsapp whatsapp-icon"></i></a>
     <!-- Whatsapp Button End -->
 
     <!-- Jquery Library File -->

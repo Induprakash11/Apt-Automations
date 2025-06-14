@@ -206,7 +206,7 @@
     <!-- Footer Section End -->
 
     <!-- Whatsapp Button Start -->
-    <a href="https://wa.me/+919865922844" class="whatsapp_float" target="_blank"> <i class="fab fa-whatsapp whatsapp-icon"></i></a>
+    <a href="https://wa.me/9865922844" class="whatsapp_float" target="_blank"> <i class="fab fa-whatsapp whatsapp-icon"></i></a>
     <!-- Whatsapp Button End -->
 
     <!-- Jquery Library File -->

@@ -265,7 +265,7 @@
 
 
     <!-- Our Blog Section Start -->
-    <div class="our-blog">
+    <div class="page-blog">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-6">
@@ -287,7 +287,7 @@
             </div>
 
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-lg-3 col-md-6 col-sm-12">
                     <!-- Post Item Start -->
                     <div class="post-item wow fadeInUp">
                         <!-- Post Featured Image Start-->
@@ -303,11 +303,12 @@
                         <!-- Post Item Body Start -->
                         <div class="post-item-body">
                             <!-- Post Item Tag Start -->
+                            
                             <!-- Post Item Tag End -->
 
                             <!-- Post Item Content Start -->
                             <div class="post-item-content">
-                                <h2><a href="blog-single.html">10 Essential Steps to Create Foolproof Financial Plan for Long-Term Stability</a></h2>
+                                <h2><a href="blog-single.html">Title 1</a></h2>
                             </div>
                             <!-- Post Item Content End -->
 
@@ -322,7 +323,7 @@
                     <!-- Post Item End -->
                 </div>
 
-                <div class="col-md-6">
+                <div class="col-lg-3 col-md-6 col-sm-12">
                     <!-- Post Item Start -->
                     <div class="post-item wow fadeInUp" data-wow-delay="0.2s">
                         <!-- Post Featured Image Start-->
@@ -337,10 +338,13 @@
 
                         <!-- Post Item Body Start -->
                         <div class="post-item-body">
+                            <!-- Post Item Tag Start -->
+                            
+                            <!-- Post Item Tag End -->
 
                             <!-- Post Item Content Start -->
                             <div class="post-item-content">
-                                <h2><a href="blog-single.html">Top 10 Financial Mistakes Individuals and Businesses Should Avoid in 2024</a></h2>
+                                <h2><a href="blog-single.html">Title 2</a></h2>
                             </div>
                             <!-- Post Item Content End -->
 
@@ -355,7 +359,7 @@
                     <!-- Post Item End -->
                 </div>
 
-                <div class="col-md-6">
+                <div class="col-lg-3 col-md-6 col-sm-12">
                     <!-- Post Item Start -->
                     <div class="post-item wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Post Featured Image Start-->
@@ -370,10 +374,13 @@
 
                         <!-- Post Item Body Start -->
                         <div class="post-item-body">
+                            <!-- Post Item Tag Start -->
+                            
+                            <!-- Post Item Tag End -->
 
                             <!-- Post Item Content Start -->
                             <div class="post-item-content">
-                                <h2><a href="blog-single.html">Mastering Budgeting Practical Steps to Ensure Your Financial Success</a></h2>
+                                <h2><a href="blog-single.html">Title 3</a></h2>
                             </div>
                             <!-- Post Item Content End -->
 
@@ -388,14 +395,14 @@
                     <!-- Post Item End -->
                 </div>
 
-                <div class="col-md-6">
+                <div class="col-lg-3 col-md-6 col-sm-12">
                     <!-- Post Item Start -->
-                    <div class="post-item wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="post-item wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Post Featured Image Start-->
                         <div class="post-featured-image">
                             <a href="blog-single.html" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/post-4.jpg" alt="">
+                                    <img src="images/post-3.jpg" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -403,10 +410,13 @@
 
                         <!-- Post Item Body Start -->
                         <div class="post-item-body">
+                            <!-- Post Item Tag Start -->
+                            
+                            <!-- Post Item Tag End -->
 
                             <!-- Post Item Content Start -->
                             <div class="post-item-content">
-                                <h2><a href="blog-single.html">Understanding Cash Flow Key to Healthy Busines and Financial Stability</a></h2>
+                                <h2><a href="blog-single.html">Title 4</a></h2>
                             </div>
                             <!-- Post Item Content End -->
 

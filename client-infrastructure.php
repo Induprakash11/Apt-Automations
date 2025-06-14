@@ -8,6 +8,9 @@
 </head>
 
 <body>
+    <style>
+    <?php include 'inc/style.php'; ?>
+    </style>
 
     <!-- Preloader Start -->
     <div class="preloader">
@@ -63,6 +66,10 @@
     <!-- Footer Section Start -->
     <?php include 'inc/footer.php'; ?>
     <!-- Footer Section End -->
+
+    <!-- Whatsapp Button Start -->
+    <a href="https://wa.me/+919865922844" class="whatsapp_float" target="_blank"> <i class="fab fa-whatsapp whatsapp-icon"></i></a>
+    <!-- Whatsapp Button End -->
 
     <!-- Jquery Library File -->
     <script src="js/jquery-3.7.1.min.js"></script>

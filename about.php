@@ -121,17 +121,6 @@
                                         <div class="about-author-content">
                                             <h3>D.Vijayaraj</h3>
                                         </div>
-                                    </div>
-                                    <!-- About Info Box End -->
-                                </div>
-                                <!-- About Author Box End -->
-                            </div>
-                            <!-- Author Contact -->
-                            <div class="col-md-6">
-                                <!-- About Author Box Start -->
-                                <div class="about-author-box wow fadeInUp" data-wow-delay="0.4s">
-                                    <!-- About Info Box Start -->
-                                    <div class="about-info-box d-flex align-items-center">
                                         <div class="about-author-content">
                                             <h3> M.N.Senthilkumar</h3>
                                         </div>
@@ -140,6 +129,8 @@
                                 </div>
                                 <!-- About Author Box End -->
                             </div>
+                            <!-- Author Contact -->
+                            
                         </div>
 
 
@@ -425,31 +416,24 @@
                 <div class="col-lg-6">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">Certificate</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>ISO</span> Certification</h2>
+                        <h3 class="wow fadeInUp text-light">Certificate</h3>
+                        <h2 class="text-anime-style-2 text-light" data-cursor="-opaque"><span>ISO</span> Certification</h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
 
-                <div class="col-lg-6">
-                    <!-- Section Button Start -->
-                    <div class="section-btn wow fadeInUp" data-wow-delay="0.2s">
-                        <a href="#" class="btn-default">View</a>
-                    </div>
-                    <!-- Section Button End -->
-                </div>
             </div>
 
-            <div class="row align-items-end" style="display:flex;justify-content: space-evenly;flex-wrap: nowrap;flex-direction: row;">
+            <div class="row align-items-end">
                 <div class="col-lg-6">
                     <!-- Our FAQs Image Start -->
                     <div class="our-faqs-image">
                         <!-- Our FAQs Img Start -->
-                        <div class="our-faqs-img">
+                        <div class="our-certificate-img">
+                            <a href="images/certificate.pdf" target="_blank">
                             <figure class="image-anime reveal">
-                                <a href="images/certificate.pdf" target="_blank">
-                                <img src="images/iso-certificate.jpg" alt=""></a>
-                            </figure>
+                                <img src="images/iso-certificate.jpg" alt="">
+                            </figure></a>
                         </div>
                         <!-- Our FAQs Img End -->
 

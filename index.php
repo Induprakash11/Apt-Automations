@@ -110,6 +110,47 @@
                     </div>
                 </div>
                 <!-- Hero Slide End -->
+
+                                <!-- Hero Slide Start -->
+                <div class="swiper-slide">
+                    <div class="hero-slide">
+                        <!-- Slider Image Start -->
+                        <div class="hero-slider-image">
+                            <img src="images/hero-bg-2.jpg" alt="">
+                        </div>
+                        <!-- Slider Image End -->
+
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-12">
+                                    <!-- Hero Content Start -->
+                                    <div class="hero-content">
+                                        <!-- Section Title Start -->
+                                        <div class="section-title dark-section">
+                                            <h3 class="wow fadeInUp">welcome to</h3>
+                                            <h1 class="text-anime-style-2" data-cursor="-opaque"><span>APT</span> AUTOMATIONS</h1>
+                                            <p class="wow fadeInUp" data-wow-delay="0.2s">We are always passionate about continuous improvement in all areas of our business.</p>
+                                        </div>
+                                        <!-- Section Title End -->
+
+                                        <!-- Hero Content Body Start -->
+                                        <div class="hero-content-body wow fadeInUp" data-wow-delay="0.4s">
+                                            <!-- Hero Button Start -->
+                                            <div class="hero-btn">
+                                                <a href="https://wa.me/919865922884" class="btn-default">For Enquiry</a>
+                                            </div>
+                                            <!-- Hero Button End -->
+
+                                        </div>
+                                        <!-- Hero Content Body End -->
+                                    </div>
+                                    <!-- Hero Content End -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Hero Slide End -->
             </div>
             <div class="hero-pagination"></div>
         </div>
@@ -272,7 +313,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">APT Automations</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Our<span> Products</span></h2>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Precision Component</span></h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -442,10 +483,13 @@
                 <h3 class="wow fadeInUp">Our Clients</h3>
             </div>
             <div class="owl-carousel owl-theme">
-                <div class="item"><img src="images/company-logo-1.svg" alt="Client 1"></div>
-                <div class="item"><img src="images/company-logo-2.svg" alt="Client 2"></div>
-                <div class="item"><img src="images/company-logo-3.svg" alt="Client 3"></div>
-                <div class="item"><img src="images/company-logo-4.svg" alt="Client 4"></div>
+                <div class="item"><img src="images/client-img-1.png" alt="Client 1"></div>
+                <div class="item"><img src="images/client-img-2.png" alt="Client 2"></div>
+                <div class="item"><img src="images/client-img-3.png" alt="Client 3"></div>
+                <div class="item"><img src="images/client-img-4.png" alt="Client 4"></div>
+                <div class="item"><img src="images/client-img-5.png" alt="Client 5"></div>
+                <div class="item"><img src="images/client-img-6.png" alt="Client 6"></div>
+                <div class="item"><img src="images/client-img-7.png" alt="Client 7"></div>
             </div>
         </div>
     </div>

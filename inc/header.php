@@ -16,7 +16,7 @@
                                 <li class="nav-item"><a class="nav-link" href="index.php">Home</a>
                                 </li>
                                 <li class="nav-item"><a class="nav-link" href="about.php">About</a>
-                                <li class="nav-item submenu"><a class="nav-link" href="#">Product</a>
+                                <li class="nav-item submenu"><a class="nav-link" href="#">Precision Component</a>
                                     <ul>
                                         <li class="nav-item"><a class="nav-link" href="">product1</a></li>
                                         <li class="nav-item"><a class="nav-link" href="">product2</a></li>
@@ -31,7 +31,7 @@
                                 </li>
                                 <li class="nav-item"><a class="nav-link" href="client-infrastructure.php">Client infrastructure</a></li>
                                 <li class="nav-item"><a class="nav-link" href="clients.php">Clients</a></li>
-                                <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>
+                                <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                             </ul>
                         </div>
                         <!-- Header Btn Start -->

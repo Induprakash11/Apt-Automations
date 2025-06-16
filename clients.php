@@ -55,7 +55,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <!-- Company Logo Start -->
                     <div class="company-logo wow fadeInUp">
-                        <img src="images/company-logo-1.svg" alt="">
+                        <img src="images/client-img-1.png" alt="">
                     </div>
                     <!-- Company Logo End -->
                 </div>
@@ -63,7 +63,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <!-- Company Logo Start -->
                     <div class="company-logo wow fadeInUp" data-wow-delay="0.2s">
-                        <img src="images/company-logo-2.svg" alt="">
+                        <img src="images/client-img-2.png" alt="">
                     </div>
                     <!-- Company Logo End -->
                 </div>
@@ -71,7 +71,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <!-- Company Logo Start -->
                     <div class="company-logo wow fadeInUp" data-wow-delay="0.4s">
-                        <img src="images/company-logo-3.svg" alt="">
+                        <img src="images/client-img-3.png" alt="">
                     </div>
                     <!-- Company Logo End -->
                 </div>
@@ -79,7 +79,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <!-- Company Logo Start -->
                     <div class="company-logo wow fadeInUp" data-wow-delay="0.6s">
-                        <img src="images/company-logo-4.svg" alt="">
+                        <img src="images/client-img-4.png" alt="">
                     </div>
                     <!-- Company Logo End -->
                 </div>
@@ -87,7 +87,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <!-- Company Logo Start -->
                     <div class="company-logo wow fadeInUp" data-wow-delay="0.8s">
-                        <img src="images/company-logo-5.svg" alt="">
+                        <img src="images/client-img-5.png" alt="">
                     </div>
                     <!-- Company Logo End -->
                 </div>
@@ -95,7 +95,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <!-- Company Logo Start -->
                     <div class="company-logo wow fadeInUp" data-wow-delay="1s">
-                        <img src="images/company-logo-6.svg" alt="">
+                        <img src="images/client-img-6.png" alt="">
                     </div>
                     <!-- Company Logo End -->
                 </div>
@@ -103,26 +103,11 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <!-- Company Logo Start -->
                     <div class="company-logo wow fadeInUp" data-wow-delay="1.2s">
-                        <img src="images/company-logo-7.svg" alt="">
+                        <img src="images/client-img-7.png" alt="">
                     </div>
                     <!-- Company Logo End -->
                 </div>
 
-                <div class="col-lg-4 col-md-4 col-6">
-                    <!-- Company Logo Start -->
-                    <div class="company-logo wow fadeInUp" data-wow-delay="1.4s">
-                        <img src="images/company-logo-8.svg" alt="">
-                    </div>
-                    <!-- Company Logo End -->
-                </div>
-
-                <div class="col-lg-4 col-md-4 col-6">
-                    <!-- Company Logo Start -->
-                    <div class="company-logo wow fadeInUp" data-wow-delay="1.6s">
-                        <img src="images/company-logo-9.svg" alt="">
-                    </div>
-                    <!-- Company Logo End -->
-                </div>
             </div>
         </div>
     </div>
